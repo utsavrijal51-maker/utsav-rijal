@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance",
+  "description": "Automated Student Attendance System using Facial Recognition, anti-spoofing liveness checks, and real-time camera scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

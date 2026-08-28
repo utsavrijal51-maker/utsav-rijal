@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Viewfinder Corners -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M28,38 V30 H36 V26 H24 V38 H28 Z
+                  M80,38 H84 V26 H72 V30 H80 V38 Z
+                  M28,70 V78 H36 V82 H24 V70 H28 Z
+                  M80,70 H84 V82 H72 V78 H80 V70 Z" />
+    
+    <!-- Face Silhouette -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,34 C46,34 40,40 40,48 C40,54 44,59 50,61 V64 H38 V70 H70 V64 H58 V61 C64,59 68,54 68,48 C68,40 62,34 54,34 Z" />
+
+    <!-- Scanning Line -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M26,53 H82 V55 H26 Z" />
+</vector>
